@@ -1,5 +1,9 @@
 # Тестовое задание на верстку
 
+## Выполненное задание
+
+[Демо](https://sergeykardashev.github.io/Stworka-progress-checklist/) на GitHub Pages
+
 ## Требования
 
 Сверстать блок на чистым HTML и CSS без JS/TS по
